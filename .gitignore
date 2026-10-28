@@ -1,0 +1,9 @@
+
+**/build/
+**/.dart_tool/
+**/.gradle/
+**/local.properties
+**/.idea/
+**/android/key.properties
+*.jks
+*.keystore

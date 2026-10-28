@@ -1,0 +1,4 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  fl_chart: ^1.0.0
